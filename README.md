@@ -1,3 +1,5 @@
+## Description
+
 This is a basic C# console application that demonstrates how to work with arrays.
 
 ## Features
@@ -23,7 +25,8 @@ foreach (int number in numbers)
 }
 Console.WriteLine($"Sum of array elements: {sum}");
 ```
-##How to Run
+## How to Run
+
 Make sure you have the .NET SDK installed.
 
 Clone or download this repository.
