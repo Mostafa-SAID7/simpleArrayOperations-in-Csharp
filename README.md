@@ -22,3 +22,16 @@ foreach (int number in numbers)
     sum += number;
 }
 Console.WriteLine($"Sum of array elements: {sum}");
+How to Run
+Make sure you have the .NET SDK installed.
+
+Clone or download this repository.
+
+Open a terminal in the project directory.
+
+Run the application:
+
+bash
+Copy
+Edit
+dotnet run
